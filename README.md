@@ -25,23 +25,74 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,python,fastapi,react,pytorch,postgresql,docker,git,github,figma,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,react,angular,js,ktor,fastapi,supabase,postgres,python,java,cs,cpp,git,github&theme=dark" />
 
 </div>
 
 <br>
 
+**📱 Mobile**
+
 <div align="center">
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Android](https://img.shields.io/badge/Android_Nativo-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+</div>
+
+**💻 Frontend & Web**
+
+<div align="center">
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
+
+**☁️ Backend & Cloud**
+
+<div align="center">
+
+![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=for-the-badge&logo=ktor&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+</div>
+
+**🤖 IA & Integrações**
+
+<div align="center">
+
+![APIs](https://img.shields.io/badge/APIs_Externas-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+
+</div>
+
+**🔐 Segurança & Redes**
+
+<div align="center">
+
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge&logo=pfsense&logoColor=white)
+![OPNsense](https://img.shields.io/badge/OPNsense-D94F00?style=for-the-badge&logo=opnsense&logoColor=white)
+![IPFire](https://img.shields.io/badge/IPFire-D2232A?style=for-the-badge)
+![IDS/IPS](https://img.shields.io/badge/IDS%2FIPS-2E3440?style=for-the-badge&logo=suricata&logoColor=white)
+
+</div>
+
+**🧰 Linguagens & Ferramentas**
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
@@ -104,10 +155,10 @@ App Android de gestão de torneios desportivos, com frontend em Kotlin/Compose e
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINK-AQUI/">
+<a href="https://www.linkedin.com/in/guilherme-oliveira-8345a7394/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:SEU-EMAIL-AQUI">
+<a href="mailto:ramosguilherme100@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
