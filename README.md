@@ -87,22 +87,14 @@ App Android de gestão de torneios desportivos — frontend em **Kotlin/Compose*
 </td>
 <td width="50%" valign="top">
 
-### 🔒 Segurança de Redes
-Estudo comparativo **pfSense CE** vs **OPNsense** vs **IPFire** — VLANs, firewall rules, OpenVPN e Suricata IDS/IPS em ambiente virtualizado.
+### 🔗 WorkLink
+_[completa aqui uma descrição curta do projeto]_
 
-`pfSense` `OPNsense` `Suricata`
+**[🔗 Ver projeto](https://github.com/filipacalheiros9/worklink)**
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-### 🔗 WorkLink
-_[completa aqui uma descrição curta do projeto]_
-
-**[🔗 Ver projeto](https://github.com/Guilherme27398/WorkLink)**
-
-</td>
 <td width="50%" valign="top">
 
 ### 🎮 Super-Pixel-Quest
@@ -111,8 +103,6 @@ _[completa aqui uma descrição curta do jogo]_
 **[🔗 Ver projeto](https://github.com/Guilherme27398/Super-Pixel-Quest)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ⚔️ Hero's Ascension
@@ -121,6 +111,8 @@ _[completa aqui uma descrição curta do jogo]_
 **[🔗 Ver projeto](https://github.com/Guilherme27398/Hero-s-Asencion)**
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### 📅 GoingDay
@@ -129,8 +121,6 @@ _[completa aqui uma descrição curta do projeto]_
 **[🔗 Ver projeto](https://github.com/Guilherme27398/goingdayy)**
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🗓️ Gestor de Eventos (SIR)
@@ -139,26 +129,8 @@ _[completa aqui uma descrição curta do projeto]_
 **[🔗 Ver projeto](https://github.com/duartesilva18/GestorEventosSIR)**
 
 </td>
-<td width="50%" valign="top">
-
-</td>
 </tr>
 </table>
-
-<img src="./assets/divider.svg" width="100%" height="3" alt="" />
-
-## 📊 Atividade
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guilherme27398&show_icons=true&hide_border=true&include_all_commits=true&title_color=CBA6F7&icon_color=F5C2E7&text_color=CDD6F4&bg_color=1E1E2E" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme27398&layout=compact&hide_border=true&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com/?user=Guilherme27398&hide_border=true&background=1E1E2E&ring=CBA6F7&fire=F5C2E7&currStreakLabel=CDD6F4" />
-
-</div>
 
 <img src="./assets/divider.svg" width="100%" height="3" alt="" />
 
