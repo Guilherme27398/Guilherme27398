@@ -1,0 +1,65 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e2e"/>
+      <stop offset="55%" stop-color="#181825"/>
+      <stop offset="100%" stop-color="#11111b"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cba6f7"/>
+      <stop offset="50%" stop-color="#f5c2e7"/>
+      <stop offset="100%" stop-color="#89b4fa"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cba6f7"/>
+      <stop offset="100%" stop-color="#89b4fa"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="85%" cy="35%" r="55%">
+      <stop offset="0%" stop-color="#89b4fa" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#89b4fa" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="dots" width="26" height="26" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.2" fill="#313244" opacity="0.6"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="300" fill="url(#bg)"/>
+  <rect width="1200" height="300" fill="url(#dots)"/>
+  <rect width="1200" height="300" fill="url(#glow)"/>
+  <rect x="0" y="0" width="1200" height="6" fill="url(#accent)"/>
+
+  <text x="90" y="80" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="20" fill="#585b70">
+    <tspan fill="#89b4fa">const</tspan> <tspan fill="#cdd6f4">dev</tspan> <tspan fill="#f5c2e7">=</tspan> <tspan fill="#a6e3a1">"Guilherme Ramos"</tspan><tspan fill="#cdd6f4">;</tspan>
+  </text>
+
+  <text x="88" y="160" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="56" font-weight="700" fill="url(#textGrad)">
+    Guilherme Ramos
+  </text>
+
+  <text x="90" y="196" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="21" fill="#a6adc8">
+    Mobile &amp; AI/ML Developer · Eng. Informática @ IPVC
+  </text>
+
+  <g font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect x="90" y="222" width="98" height="32" rx="16" fill="#313244"/>
+    <text x="139" y="243" fill="#cba6f7" text-anchor="middle">Flutter</text>
+
+    <rect x="198" y="222" width="82" height="32" rx="16" fill="#313244"/>
+    <text x="239" y="243" fill="#94e2d5" text-anchor="middle">AI / ML</text>
+
+    <rect x="290" y="222" width="106" height="32" rx="16" fill="#313244"/>
+    <text x="343" y="243" fill="#f5c2e7" text-anchor="middle">RAG · LLMs</text>
+
+    <rect x="406" y="222" width="88" height="32" rx="16" fill="#313244"/>
+    <text x="450" y="243" fill="#fab387" text-anchor="middle">Supabase</text>
+  </g>
+
+  <g opacity="0.45" font-family="'Cascadia Code','Fira Code',Consolas,monospace" fill="#45475a">
+    <text x="960" y="95" font-size="100" font-weight="700">&lt;/&gt;</text>
+  </g>
+
+  <circle cx="1090" cy="230" r="3" fill="#a6e3a1">
+    <animate attributeName="opacity" values="1;0.2;1" dur="1.8s" repeatCount="indefinite"/>
+  </circle>
+  <text x="1104" y="235" font-family="'Cascadia Code','Fira Code',Consolas,monospace" font-size="14" fill="#6c7086">building…</text>
+</svg>
