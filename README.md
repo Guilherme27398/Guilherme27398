@@ -18,7 +18,7 @@ curso: Engenharia Informática — 3º ano
 instituição: ESTG | Instituto Politécnico de Viana do Castelo (IPVC)
 projeto_principal: AutoCare-AI (parceria com a Brilean)
 foco: IA/ML · RAG · Visão Computacional · Mobile (Flutter/Kotlin)
-fora_do_código: [gym, gaming, concertos 🎧]
+fora_do_código: [basquetebol 🏀, gaming 🎮, animes 📺]
 disponível_para: estágio/emprego em desenvolvimento de software
 ```
 
@@ -59,7 +59,7 @@ disponível_para: estágio/emprego em desenvolvimento de software
 <tr>
 <td width="50%" valign="top">
 
-### 🚗 AutoCare-AI
+### 🚗 AutoCare-AI <sub>(privado)</sub>
 Mecânico virtual em **Flutter** — gestão de documentos com OCR, pipeline **RAG** (pgvector + Supabase), chatbot multi-modo, deteção visual em tempo real com **YOLO**, integração com a **NHTSA vPIC API** e **Gemini AI**.
 
 `Flutter` `RAG` `Supabase` `Gemini` `YOLO`
@@ -67,7 +67,7 @@ Mecânico virtual em **Flutter** — gestão de documentos com OCR, pipeline **R
 </td>
 <td width="50%" valign="top">
 
-### 🎥 NeRF Studio
+### 🎥 NeRF Studio <sub>(brevemente público)</sub>
 Pipeline de reconstrução 3D construída de raiz — **Python**, **PyTorch**, **FastAPI**, **React**, **Instant-NGP** e **COLMAP**, a correr numa RTX 3070 Ti.
 
 `PyTorch` `FastAPI` `React` `COLMAP`
@@ -82,6 +82,8 @@ App Android de gestão de torneios desportivos — frontend em **Kotlin/Compose*
 
 `Kotlin` `Ktor` `Supabase`
 
+**[🔗 Ver projeto](https://github.com/duartesilva18/MatchUp)**
+
 </td>
 <td width="50%" valign="top">
 
@@ -89,6 +91,55 @@ App Android de gestão de torneios desportivos — frontend em **Kotlin/Compose*
 Estudo comparativo **pfSense CE** vs **OPNsense** vs **IPFire** — VLANs, firewall rules, OpenVPN e Suricata IDS/IPS em ambiente virtualizado.
 
 `pfSense` `OPNsense` `Suricata`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 WorkLink
+_[completa aqui uma descrição curta do projeto]_
+
+**[🔗 Ver projeto](https://github.com/Guilherme27398/WorkLink)**
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 Super-Pixel-Quest
+_[completa aqui uma descrição curta do jogo]_
+
+**[🔗 Ver projeto](https://github.com/Guilherme27398/Super-Pixel-Quest)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Hero's Ascension
+_[completa aqui uma descrição curta do jogo]_
+
+**[🔗 Ver projeto](https://github.com/Guilherme27398/Hero-s-Asencion)**
+
+</td>
+<td width="50%" valign="top">
+
+### 📅 GoingDay
+_[completa aqui uma descrição curta do projeto]_
+
+**[🔗 Ver projeto](https://github.com/Guilherme27398/goingdayy)**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🗓️ Gestor de Eventos (SIR)
+_[completa aqui uma descrição curta do projeto]_
+
+**[🔗 Ver projeto](https://github.com/duartesilva18/GestorEventosSIR)**
+
+</td>
+<td width="50%" valign="top">
 
 </td>
 </tr>
@@ -100,7 +151,7 @@ Estudo comparativo **pfSense CE** vs **OPNsense** vs **IPFire** — VLANs, firew
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guilherme27398&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=CBA6F7&icon_color=F5C2E7&text_color=CDD6F4&bg_color=1E1E2E" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Guilherme27398&show_icons=true&hide_border=true&include_all_commits=true&title_color=CBA6F7&icon_color=F5C2E7&text_color=CDD6F4&bg_color=1E1E2E" />
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme27398&layout=compact&hide_border=true&title_color=CBA6F7&text_color=CDD6F4&bg_color=1E1E2E" />
 
 <br>
